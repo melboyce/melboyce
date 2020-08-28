@@ -1,19 +1,19 @@
 # Mel Boyce
 
-Hey! :wave:
+`Hey!` :wave:
 
-My name is Mel (he/him) and I'm a Principal DevOps Engineer at [MYOB](https://myob.com).
+My name is Mel (he/him) and I'm a Principal DevOps Engineer at [MYOB](https://myob.com) :black_heart:
 
 
 ## :hocho:
 
-* [Bash](https://twitter.com/chetramey) :fearful:
-* [Compassionate Coding](https://compassionatecoding.com/) :green_heart:
-* [Go](https://www.youtube.com/watch?v=5kj5ApnhPAE) :ghost:
-* [Void Linux](https://docs.voidlinux.org/) :beginner:
+* :beginner: [Void Linux](https://docs.voidlinux.org/) 
+* :fearful: [Bash](https://twitter.com/chetramey) 
+* :ghost: [Go](https://www.youtube.com/watch?v=5kj5ApnhPAE) 
+* :green_heart: [Compassionate Coding](https://compassionatecoding.com/) 
 
 
-## Socials
+## :mag:
 
 * :briefcase: [linkedin.com/in/melboyce](https://www.linkedin.com/in/melboyce)
 * :bird: [twitter.com/melboyce](https://twitter.com/melboyce)
