@@ -2,7 +2,7 @@
 
 `Hey!` :wave:
 
-My name is Mel (he/him) and I'm a Principal DevOps Engineer at [MYOB](https://myob.com) :black_heart:
+My name is Mel (he/him) and I'm the Lead DevOps Engineer for [Littlepay](https://littlepay.com) :black_heart:
 
 
 ## :hocho:
