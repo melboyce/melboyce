@@ -2,9 +2,7 @@
 
 `Hey!` :wave:
 
-My name is Mel (he/him) and I'm the Lead DevOps Engineer for [Littlepay](https://littlepay.com) :black_heart:
-
-My commits now happen [over here :fox_face:](https://gitlab.com/melboyce) :green_heart:
+My name is Mel (he/him) and I'm the Platform Lead at [Littlepay](https://littlepay.com) :black_heart:
 
 
 ## :hocho:
