@@ -2,7 +2,7 @@
 
 `Hey!` :wave:
 
-My name is Mel (he/him) and I'm the Platform Lead at [Littlepay](https://littlepay.com) :black_heart:
+My name is Mel (he/him) and I'm the Head of Platform & Security at [Littlepay](https://littlepay.com) :black_heart:
 
 
 ## :hocho:
